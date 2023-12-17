@@ -3,7 +3,7 @@
 
 namespace PROJNAME;
 
-internal struct PROJNAME
+internal readonly struct PROJNAME
 {
     internal static void Main()
     {
