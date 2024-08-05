@@ -137,6 +137,7 @@ dotnet_diagnostic.CA1707.severity = none
 
 dotnet_naming_style.pascal_case_style.capitalization = pascal_case
 
+dotnet_diagnostic.IDE0073.severity = warning
 file_header_template = Licensed under the GPL3 or later versions of the GPL license.\nSee the LICENSE file in the project root for more information.
 
 # RS0016: Only enable if API files are present
