@@ -5,7 +5,7 @@ namespace PROJNAME;
 
 internal readonly struct PROJNAME
 {
-    internal static void Main()
-    {
-    }
+	internal static void Main()
+	{
+	}
 }
